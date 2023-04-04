@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Helvetica";
+  src: url("/fonts/Helvetica-Font/Helvetica.ttf");
+}
+
+@font-face {
+  font-family: "Helvetica-Bold";
+  src: url("/fonts/Helvetica-Font/Helvetica-Bold.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: white;
+}
