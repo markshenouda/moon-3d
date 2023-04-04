@@ -24,12 +24,12 @@ function App() {
       >
         <ScrollControls pages={2} damping={0.1}>
           <Scroll page={2} html>
-            {/* <footer className="footer">
+            <footer className="footer">
               Made with ❤️ by{" "}
               <a href="https://twitter.com/MarkSShenouda" target="_blank">
                 Mark Shenouda
               </a>
-            </footer> */}
+            </footer>
           </Scroll>
           <Moon />
         </ScrollControls>

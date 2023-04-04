@@ -1,5 +1,5 @@
 import { useTexture, useScroll } from "@react-three/drei";
-import { useEffect, useRef } from "react";
+import { useRef } from "react";
 import { useFrame } from "@react-three/fiber";
 import { motion } from "framer-motion-3d";
 import { useScrollStore } from "./useScrollStore";
